@@ -1,0 +1,5 @@
+ERROR:2020/08/31 16:45:41 study_go02.go:70: somehing has failed 
+ERROR:2020/09/01 15:23:38 study_go02.go:72: somehing has failed 
+ERROR:2020/09/01 15:23:48 study_go02.go:72: somehing has failed 
+ERROR:2020/09/01 15:24:44 study_go02.go:72: somehing has failed 
+ERROR:2020/09/01 15:31:08 study_go02.go:72: somehing has failed 
